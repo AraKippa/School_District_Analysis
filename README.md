@@ -1,15 +1,16 @@
 # School_District_Analysis
 Mod 4
 
-# Analysis (18 points)
-The written analysis has the following:
+# Purpose 
+Thomas High school was accused of tampering with 9th grade reading and math scores, the purpose of this analysis is to determine if there was tamoering and what were the effects.
 
-Overview of the school district analysis:
-
-The purpose of this analysis is well defined (3 pt).
 # Results:
-
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
+ - My results were somewhat suprising with the scores for Thomas High rising in comparison to [before](/images/beforeall.png) and [after](/images/afterall.png).
+ - Looking at the math scores by [grades](url) the numbers appear consistent across all the grades and all the schools.
+ - This leads us to wonder if spending plays a role, Thomas is in the mid-range with per student spend of $638 dollars.  
+ - Size and budget are also factors and again Thomas is in the mid-range with a size of 1,635 students and a budget of $1,043,130.00.  
+ - Thomas is a charter school where people pay to attend, and the difference in math scores of the charter vs district students is remarkable and should definately warrant further analysis.
+ 
 # Summary:
 
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+With an overall passing score now at 91% Thomas is the second ranked school in the schools surveyed.  This will have implications for increased budget, from more donations and higher attendance.  Everyone loves a winner and increasing overall school performance demonstrates that to very interested parents.
